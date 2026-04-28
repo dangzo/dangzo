@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi! I'm Daniele 👋
 
-<!--
-**dangzo/dangzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Quick things about me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | |
+|--|--|
+|💼 I am a | **Senior Frontend Engineer**|
+|📍 Based in  | **Santa Cruz de Tenerife, Spain**|
+|🛠️ Core technologies | **Vue**, **React**, **TypeScript**|
+|🌱 Currently learning | **Next.js**, **Cloud orchestration** and **CI/CD pipelines** |automatization**
+|🍕 Favorite food | **Pizza**|
+|🎮 Favorite game | **Metro Exodus**|
+|🤝 Currently working at | ℹ️ **I'm open to work!**|
+|✍️ Personal tech blog | **[https://dangz.dev](https://dangz.dev/)** |
