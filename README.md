@@ -4,12 +4,13 @@
 
 | | |
 |--|--|
-|💼 I am a | **Senior Frontend Engineer**|
-|🔎 Specialized in | **Components Design** &bull; **Frontend Architecture** &bull; **Engineering Best Practices**|
+|💼 I am a | **Senior AI Frontend Engineer**|
+|🔎 Specialized in | **Frontend Architecture** &bull; **Performance &amp; Optimizations** &bull; **Engineering Best Practices** &bull; **AI Engineering**|
 |📍 Based in  | **Santa Cruz de Tenerife, Spain**|
 |🛠️ Core technologies | **Vue** &bull; **React** &bull; **TypeScript**|
-|🌱 Currently learning | **Next.js** &bull; **Cloud orchestration** &bull; **CI/CD pipelines** |automatization**
+|🤖 Agentic Tools | **Claude Code** &bull; **Codex**|
+|🌱 Currently learning | **Specification Driven Development** &bull; **Automatization** &bull; **CI/CD pipelines** |
 |🍕 Favorite food | **Pizza**|
-|🎮 Favorite games | **Metro Exodus** &bull; **Mortal Shells** &bull; **XCOM series**|
-|🤝 Currently working at | ℹ️ **Cycloid** _(until December 2026)_|
+|🎮 Favorite games | **Metro Exodus** &bull; **Inscryption** &bull; **XCOM series**|
+|🤝 Currently working at | **Cycloid**|
 |✍️ Personal tech blog | **[https://dangz.dev](https://dangz.dev/)** |
